@@ -1,0 +1,26 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Project Description}{2}{section.1}
+\contentsline {section}{\numberline {2}Use Cases}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Participation Optional}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Participation Required}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Live Q/A}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Justification}{8}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Error scenarios and possible solutions}{8}{subsection.2.5}
+\contentsline {section}{\numberline {3}Planning}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Milestones}{9}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Database:}{9}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Basic Layout and Functionality:}{9}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Tasks}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Entity Relationship Diagram (ERD):}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Site Map:}{10}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Implement Database:}{10}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Basic Layout (HTML):}{10}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Basic Login Screen:}{10}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Basic User Interface:}{10}{subsubsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.7}User-Forum Interaction:}{10}{subsubsection.3.2.7}
+\contentsline {subsubsection}{\numberline {3.2.8}User Security:}{10}{subsubsection.3.2.8}
+\contentsline {subsubsection}{\numberline {3.2.9}Make Everything Pretty:}{11}{subsubsection.3.2.9}
+\contentsline {subsection}{\numberline {3.3}Schedule}{11}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Project Tracking}{11}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Risk Management}{11}{subsection.3.5}
+\contentsline {section}{\numberline {4}Meeting Report}{12}{section.4}
