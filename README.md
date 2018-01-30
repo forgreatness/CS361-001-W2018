@@ -1,2 +1,2 @@
 # CS361-001-W2018
-CS 361. SOFTWARE ENGINEERING I Winter 2018 (on campus)
+This is my assignment-2 submission!
